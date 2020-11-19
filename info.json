@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "81968b818765a3d4b2c2b65f5d393c41f949fc16",
+    "author": "yihanwu <yihan.wu@queensu.ca>",
+    "time": "2020-11-19 17:50:37",
+    "files": 9,
+    "merge": false,
+    "message": "update for new shiny test ver and add override text label with alt label function\n"
+  },
+  "remote": "https://github.com/ropensci/baRcodeR",
+  "pkg": "baRcodeR"
+}
