@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9fbe83be4970176f5913e3f334392d543c6ba675",
+    "author": "ColauttiLab <colauttilab@gmail.com>",
+    "time": "2024-01-31 03:49:08",
+    "files": 10,
+    "merge": false,
+    "message": "Rebuilt json with new version\n"
+  },
+  "repo": "https://github.com/ropensci/baRcodeR",
+  "pkg": "baRcodeR"
+}

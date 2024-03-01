@@ -1,0 +1,11 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  Using-baRcodeR: Using-baRcodeR.html
+  use-addin: use-addin.html
+last_built: 2024-03-01T04:38Z
+urls:
+  reference: https://docs.ropensci.org/baRcodeR/reference
+  article: https://docs.ropensci.org/baRcodeR/articles
+
